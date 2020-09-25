@@ -10,7 +10,8 @@ Mám záujem vytvoriť mobilnú aplikáciu s menami aj iných štátov ako Slove
 Kontakt: creativesuzi33@gmail.com
 
 ......................................
-This App for Android (Meniny_Name Day) is full of names of Slovak and the Czech Republic. There is the browser with the cards of Name Day https://cardofnameday.wordpress.com 
-I would like to create the mobile/phone application with other names of states of the world. If somebody wants to help me, please, send me the names of the states or the link of website with the names. Thank you very much. 
+This App for OS Android (Meniny_Name Day) is full of the names of Slovakia and the Czech Republic. There is the browser with the cards of the Name Day https://cardofnameday.wordpress.com 
+
+I would like to create the mobile/phone application with other names of the states of the world. If somebody wants to help me, please, send me the names of the states or the link of some website with the names. Thank you very much. 
 
 E-mail: creativesuzi33@gmail.com
